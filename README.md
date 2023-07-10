@@ -10,7 +10,7 @@
 2. <b>Back-end </b> :- Java Core
 
 ### Demo
-<img src="screenshots/screenshot.png" alt="Smiley face" width = "800"  height = "400">
+<img src="screenshots/screenshot.png" alt="Smiley face" width = "700"  height = "400">
  
 
 
